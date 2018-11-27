@@ -1,0 +1,13 @@
+G04 Gerber job file.*
+%TF.FileFunction,JobInfo*%
+%TF.GenerationSoftware,Autodesk,EAGLE,8.7.0*%
+%TF.CreationDate,2018-10-16T22:36:03Z*%
+%TF.Part,Single*%
+%MOMM*%
+%TJ.B_Owner,  <>*%
+%TJ.B_ID,PCB_Arduino_V2.0_PC*%
+%TJ.B_LayerNum,2*%
+%TJ.B_Thickness,1.570000*%
+%TJ.B_Size_X,69.520000*%
+%TJ.B_Size_Y,64.770000*%
+M02*
